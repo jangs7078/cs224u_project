@@ -57,6 +57,7 @@ target/
 
 
 # Data
+project/.data/*.csv
 data/*
 trees/*
 glove.6B/*
