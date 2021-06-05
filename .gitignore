@@ -57,7 +57,7 @@ target/
 
 
 # Data
-project/.data/*.csv
+.data/*.csv
 data/*
 trees/*
 glove.6B/*
@@ -67,5 +67,5 @@ nli-data/*
 nlidata/*
 rel_ext_data*
 *_solved.ipynb
-project/*.pt
+*.pt
 .DS_Store
